@@ -1,0 +1,34 @@
+.row {
+	margin-top:10px;
+}
+
+.container {
+	background-color: white;
+}
+
+.CodeMirror {
+  height: auto;
+}
+.CodeMirror-scroll {
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+
+th {
+	padding:2px 5px;
+}
+
+td {
+	padding:5px;
+}
+
+table {
+	background-color: white;
+	margin-bottom: 5px;
+}
+
+.error {
+	color:red;
+	transition:.5s;
+	overflow:hidden;
+}
